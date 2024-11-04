@@ -4,3 +4,5 @@
 #### H4 headers
 ##### H5 headers
 ###### H6 headers
+
+![Image of Private Investocat](https://octodex.github.com/images/privateinvestocat.jpg)
