@@ -6,3 +6,8 @@
 ###### H6 headers
 
 ![Image of Private Investocat](https://octodex.github.com/images/privateinvestocat.jpg)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
